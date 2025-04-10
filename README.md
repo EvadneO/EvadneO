@@ -1,9 +1,79 @@
 
-<h2><👋>  Bienvenidos a mi Perfil <👋/></h2>
+<h2><👋>  ¡Hola! Soy Evadne Olivo <👋/></h2>
 
  <img align="right" alt="Coding" width="330" src="http://25.media.tumblr.com/f86c075cd05f2e13a408236fc656c410/tumblr_n21io067XE1rsdpaso1_500.gif">
  
 <h3><😃> Sobre mí <😃/> </h3>
+
+<p><strong>Desarrolladora Full Stack con experiencia en la modernización de plataformas ERP, desarrollo de APIs REST en .NET y construcción de interfaces modernas con React. Apasionada por los retos tecnológicos, la optimización de procesos y el trabajo en equipo.</strong></p>
+
+## 💼 Sobre mí
+
+Soy una profesional comprometida, metódica y orientada a resultados. Me gusta trabajar en equipo, resolver problemas y superarme constantemente. Creo en los valores como eje fundamental para crecer profesional y personalmente.
+
+✨ Siempre dispuesta a aprender, me motiva enfrentar nuevos desafíos tecnológicos y crear soluciones que impacten positivamente.
+
+🔍 Actualmente trabajo en la modernización de un sistema institucional utilizando `.NET 7`, `React`, `Entity Framework` y `Redis`, desarrollando funcionalidades robustas y escalables.
+
+---
+
+## 🧠 Tech Stack
+
+**Frontend**
+- React.js (Hooks, Formik, Yup)
+- Redux Toolkit, Axios
+- Tailwind CSS, Bootstrap
+- Recharts
+
+**Backend**
+- C#, ASP.NET Core, .NET 7
+- Entity Framework Core, LINQ
+- Microsoft SQL Server
+- Redis, Web APIs REST
+- JWT Authentication
+
+**Herramientas**
+- Git, GitHub, Postman
+- IIS, Trello, Figma
+
+---
+
+## 🚀 Proyectos Destacados
+
+### 🔹 Modernización ERP Institucional (2022 - hoy)
+Migración desde .NET Framework a .NET 7.  
+Construcción de APIs RESTful con autenticación JWT, desarrollo de frontend en React, visualización de datos en Recharts, y optimización de rendimiento con Redis.
+
+### 🔹 Sistema de Membresía
+Login único con conexión dinámica por perfil, consolidación de datos y lógica de autenticación segura.
+
+### 🔹 Módulo de Captación
+Formulario con carga de archivos en base64, validaciones condicionales, visualización de rutas geográficas con Google Maps API.
+
+> Algunos repositorios son privados bajo la cuenta [@evadneolivo](https://github.com/evadneolivo). Puedes solicitar detalles técnicos en entrevistas.
+
+---
+
+## 📈 Estadísticas de GitHub
+
+![Evadne's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EvadneO&show_icons=true&theme=default&hide_title=true&count_private=true)
+
+---
+
+## 📫 Contacto
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/evadneolivo)
+- 💻 [GitHub - Personal](https://github.com/EvadneO)
+- 🏢 [GitHub - Trabajo](https://github.com/evadneolivo)
+- 📬 evadne28@gmail.com
+
+---
+
+## ⚡️ Fun fact
+
+Me encanta entrenar, andar en bici, hacer trekking, bailar y explorar nuevos lugares 🌄🐱. Mi gata es mi mejor compañera de código.
+
+
 
 <p align="justify"> Soy una persona muy comprometida, responsable y dedicada. Me gusta trabajar mucho en equipo y en función a cumplir metas. Me gusta la disciplina soy y muy metódica. Además me gusta siempre regirme por mis principios y valores, porque considero que la moral es el pilar fundamental para tomar decisiones y accionar ante cualquier circustancia.
 
