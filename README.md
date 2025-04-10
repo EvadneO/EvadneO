@@ -1,7 +1,5 @@
 
-<h2><👋>  ¡Hola! Soy Evadne Olivo <👋/></h2>
-# 👋 Bienvenidos a mi perfil
-### Soy Evadne Olivo — Desarrolladora Full Stack
+<h2><👋>  Bienvenidos a mi perfil <👋/></h2>
 
 
  <img align="right" alt="Coding" width="330" src="http://25.media.tumblr.com/f86c075cd05f2e13a408236fc656c410/tumblr_n21io067XE1rsdpaso1_500.gif">
@@ -10,9 +8,9 @@
 
 ## 💼 Sobre mí
 
-Soy una profesional comprometida, metódica y orientada a resultados. Me gusta trabajar en equipo, resolver problemas y superarme constantemente. Creo en los valores como eje fundamental para crecer profesional y personalmente.
+Soy una profesional apasionada por la tecnología, comprometida con el aprendizaje continuo y orientada a resultados. Me destaco por mi enfoque metódico, la responsabilidad y la capacidad de adaptarme a nuevos desafíos con actitud positiva.
 
-✨ Siempre dispuesta a aprender, me motiva enfrentar nuevos desafíos tecnológicos y crear soluciones que impacten positivamente.
+✨ Disfruto trabajar en equipo, resolver problemas de manera proactiva y construir soluciones tecnológicas que generen impacto. Creo que los valores y la ética son el pilar para tomar decisiones conscientes y construir entornos de confianza.
 
 🔍 Actualmente trabajo en la modernización de un sistema institucional utilizando `.NET 7`, `React`, `Entity Framework` y `Redis`, desarrollando funcionalidades robustas y escalables.
 
@@ -83,13 +81,7 @@ Formulario con carga de archivos en base64, validaciones condicionales, visualiz
 
 ## ⚡️ Fun fact
 
-<p align="justify"> Soy una persona muy comprometida, responsable y dedicada. Me gusta trabajar mucho en equipo y en función a cumplir metas. Me gusta la disciplina soy y muy metódica. Además me gusta siempre regirme por mis principios y valores, porque considero que la moral es el pilar fundamental para tomar decisiones y accionar ante cualquier circustancia.
-
-Siempre dispuesta a aprender, me gusta mucho los retos y nuevos aprendizaje, me gusta sentir que puedo lograr y dar lo mejor de mi. Manteniendo siempre actitud postiva y que ante toda sitiación ver las oportunidades porque todo tiene una razón de ser. 
-</p>
-
-<p align="justify">⚡️ Dato curioso: Me gusta mucho entrenar, ir andar en bici, hacer caminatas, bailar, comer, conocer lugares, escuhar música, y por sobre todo dar mucho amor y jugar con mi gata!! </p>
-
+> ⚡️ Fun fact: Entrenar, andar en bici, hacer caminatas, bailar, explorar nuevos lugares y compartir con mi gata son parte de lo que me inspira cada día.
 
 <br>
 <br>
