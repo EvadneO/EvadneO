@@ -17,23 +17,20 @@ Soy una profesional apasionada por la tecnología, comprometida con el aprendiza
 
 ## 🧠 Tech Stack
 
-<img height="36" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> <img height="32" width="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img height="36" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img height="36" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" /> <img height="36" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img height="36" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
-<img height="36" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img height="36" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img height="36" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img height="36" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />
-<img height="36" width="32" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
-
-![.NET](https://img.shields.io/badge/.NET-7.0-blueviolet)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow)
+![HTML5](https://img.shields.io/badge/HTML5-Structure-orange)
+![CSS3](https://img.shields.io/badge/CSS3-Styling-blue)
 ![React](https://img.shields.io/badge/React-18-blue)
-![Redis](https://img.shields.io/badge/Redis-Critical)
-![SQL_Server](https://img.shields.io/badge/SQL--Server-red)
-![JWT](https://img.shields.io/badge/JWT-Auth-important)
+![Redux](https://img.shields.io/badge/Redux-Toolkit-purple)
+![Formik](https://img.shields.io/badge/Formik-Forms-informational)
+![Yup](https://img.shields.io/badge/Yup-Validation-brightgreen)
+![Axios](https://img.shields.io/badge/Axios-HTTP-blue)
+![Tailwind](https://img.shields.io/badge/Tailwind-CSS-06b6d4)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-Framework-563d7c)
+![Recharts](https://img.shields.io/badge/Recharts-Data%20Viz-orange)
 <br>
 <br>
+
 **Frontend**
 - React.js (Hooks, Formik, Yup)
 - Redux Toolkit, Axios
