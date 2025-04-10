@@ -1,10 +1,9 @@
-
-<h2><👋>  Bienvenidos a mi perfil <👋/></h2>
+## 👋 ¡Bienvenidos a mi perfil!
 
 
  <img align="right" alt="Coding" width="330" src="http://25.media.tumblr.com/f86c075cd05f2e13a408236fc656c410/tumblr_n21io067XE1rsdpaso1_500.gif">
  
-<span>Desarrolladora Full Stack con experiencia en la modernización de plataformas ERP, desarrollo de APIs REST en .NET y construcción de interfaces modernas con React. Apasionada por los retos tecnológicos, la optimización de procesos y el trabajo en equipo.</span>
+<span>Desarrolladora Full Stack con experiencia en la modernización de plataformas ERP, desarrollo de APIs REST en .NET y construcción de interfaces modernas con React. Apasionada por la optimización de procesos, la calidad del código y la mejora continua.</span>
 
 ## 💼 Sobre mí
 
@@ -27,6 +26,12 @@ Soy una profesional apasionada por la tecnología, comprometida con el aprendiza
 <img height="36" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img height="36" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />
 <img height="36" width="32" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
+
+![.NET](https://img.shields.io/badge/.NET-7.0-blueviolet)
+![React](https://img.shields.io/badge/React-18-blue)
+![Redis](https://img.shields.io/badge/Redis-Critical)
+![SQL_Server](https://img.shields.io/badge/SQL--Server-red)
+![JWT](https://img.shields.io/badge/JWT-Auth-important)
 <br>
 <br>
 **Frontend**
