@@ -27,6 +27,7 @@ Soy una profesional comprometida, metódica y orientada a resultados. Me gusta t
 <img height="36" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />
 <img height="36" width="32" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
 <br>
+<br>
 **Frontend**
 - React.js (Hooks, Formik, Yup)
 - Redux Toolkit, Axios
@@ -91,6 +92,5 @@ Siempre dispuesta a aprender, me gusta mucho los retos y nuevos aprendizaje, me 
 <p align="justify">⚡️ Dato curioso: Me gusta mucho entrenar, ir andar en bici, hacer caminatas, bailar, comer, conocer lugares, escuhar música, y por sobre todo dar mucho amor y jugar con mi gata!! </p>
 
 
-<a href="https://www.linkedin.com/in/evadneolivo/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 <br>
 <br>
