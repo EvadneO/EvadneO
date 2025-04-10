@@ -80,10 +80,6 @@ Formulario con carga de archivos en base64, validaciones condicionales, visualiz
 
 ## ⚡️ Fun fact
 
-Me encanta entrenar, andar en bici, hacer trekking, bailar y explorar nuevos lugares 🌄🐱. Mi gata es mi mejor compañera de código.
-
-
-
 <p align="justify"> Soy una persona muy comprometida, responsable y dedicada. Me gusta trabajar mucho en equipo y en función a cumplir metas. Me gusta la disciplina soy y muy metódica. Además me gusta siempre regirme por mis principios y valores, porque considero que la moral es el pilar fundamental para tomar decisiones y accionar ante cualquier circustancia.
 
 Siempre dispuesta a aprender, me gusta mucho los retos y nuevos aprendizaje, me gusta sentir que puedo lograr y dar lo mejor de mi. Manteniendo siempre actitud postiva y que ante toda sitiación ver las oportunidades porque todo tiene una razón de ser. 
