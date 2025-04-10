@@ -3,9 +3,7 @@
 
  <img align="right" alt="Coding" width="330" src="http://25.media.tumblr.com/f86c075cd05f2e13a408236fc656c410/tumblr_n21io067XE1rsdpaso1_500.gif">
  
-<h3><😃> Sobre mí <😃/> </h3>
-
-<p><strong>Desarrolladora Full Stack con experiencia en la modernización de plataformas ERP, desarrollo de APIs REST en .NET y construcción de interfaces modernas con React. Apasionada por los retos tecnológicos, la optimización de procesos y el trabajo en equipo.</strong></p>
+<span><strong>Desarrolladora Full Stack con experiencia en la modernización de plataformas ERP, desarrollo de APIs REST en .NET y construcción de interfaces modernas con React. Apasionada por los retos tecnológicos, la optimización de procesos y el trabajo en equipo.</strong></span>
 
 ## 💼 Sobre mí
 
@@ -19,6 +17,18 @@ Soy una profesional comprometida, metódica y orientada a resultados. Me gusta t
 
 ## 🧠 Tech Stack
 
+<img height="36" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> <img height="32" width="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img height="36" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img height="36" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" /> <img height="36" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img height="36" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
+<img height="36" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img height="36" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img height="36" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img height="36" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />
+<img height="36" width="32" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
+<br>
+<br>
+<br>
 **Frontend**
 - React.js (Hooks, Formik, Yup)
 - Redux Toolkit, Axios
@@ -58,6 +68,10 @@ Formulario con carga de archivos en base64, validaciones condicionales, visualiz
 
 ![Evadne's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EvadneO&show_icons=true&theme=default&hide_title=true&count_private=true)
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvadneO&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvadneO&layout=compact&show_icons=true&theme=radical)](https://github.com/EvadneO/EvadneO/edit/main/README.md)
 ---
 
 ## 📫 Contacto
